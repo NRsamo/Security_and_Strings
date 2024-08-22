@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#ignore visual studio files and folders
+.vs/
+
 # Distribution / packaging
 .Python
 build/
